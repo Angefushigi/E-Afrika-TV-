@@ -1,0 +1,78 @@
+body {
+    font-family: serif;
+    font-size: 14px;
+}
+
+a{
+    text-decoration: none;
+    color: Black;
+}
+
+/*Gestion de la navBar*/
+.row1 {
+    background: rgb(0, 0, 61);
+}
+
+span {
+    margin-right: 5px;
+}
+
+.para2 {
+    transform: translateY(28%);
+}
+
+ul li {
+    margin-top: 5px;
+}
+
+/*premiere colone de le sidebar*/
+.col1 {
+    background-color: #E0E0E0;
+    font-size: 17px;
+    z-index: 5;
+}
+
+/*gestion du body*/
+.small {
+    font-size: 16px;
+}
+
+.para1 {
+    transform: translateY(-6px);
+    color: rgb(3, 3, 141);
+    font-size: 22px;
+}
+
+.col-6 {
+    margin-left: 15px;
+}
+
+/*Element hr*/
+hr {
+    border-width: 1.75px;
+    border-color: #ffffff;
+}
+
+.body hr {
+    border-width: 1.75px;
+    border-color: black;
+}
+
+.hr1{
+    transform: translateY(61px) translateX(-30px);
+    width: 105.5%;
+    z-index: -4;
+    border-color: purple;
+}
+
+/*Gestionn du footer*/
+footer{
+    transform: translateY(-40px);
+}
+
+.col2 a {
+    color: rgb(89, 85, 85);
+    font-size: 14px;
+}
+
+

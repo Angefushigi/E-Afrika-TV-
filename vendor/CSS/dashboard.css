@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+
+a {
+    text-decoration: none;
+}
+
+.frow {
+    background-color: rgb(123, 152, 241);
+}
+
+.fcol {
+    background-color: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(100%);
+    -webkit-backdrop-filter: blur(100%);
+}
+
+.fcard {
+    background-color: #fcf6e1;
+}
+
+.fcard i {
+   color: rgb(118, 151, 252);
+}
+
+.scard {
+    background-color: rgb(208, 239, 252);
+}
+
+.scard i {
+   color: rgb(123, 152, 241);
+}
+
+.col1 {
+    background-color: whitesmoke;
+}
+
+.list-unstyled a{
+    color: black;
+}

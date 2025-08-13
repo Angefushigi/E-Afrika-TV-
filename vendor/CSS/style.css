@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: rgb(212, 210, 210);
+    
+}
+
+fieldset {
+    width: 350px;
+}
+
+.container {
+    background: rgb(211, 243, 255);
+}
+
+.row input {
+    height: 35px;
+}
+
+
+

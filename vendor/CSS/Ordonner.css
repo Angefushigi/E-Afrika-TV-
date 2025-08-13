@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.frow {
+    background-color: rgb(81, 117, 226);
+}
+
+.fcol {
+    background-color: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(100%);
+    -webkit-backdrop-filter: blur(100%);
+}
+
+.col1 {
+    background-color: White;
+}
+
+.col11 {
+    background: white;
+}
+
+#open {
+    display: none;
+}
+ 
+.line input{
+    width: 63%;
+}
+
+.texte {
+    color: rgb(68, 68, 167);
+}
+
+.submit {
+    background-color: rgb(5, 207, 5);
+}
+
+.submit:hover {
+    background-color: rgb(3, 150, 3);
+}
+
+#cout {
+    transform: translateX(3px);
+}
+
+.Description {
+    transform: translateX(-40px);
+}
+
+#text {
+    display: none;
+}
+
+#up {
+    display: none;
+    float: right;
+}
+
+#down {
+    float: right;
+}

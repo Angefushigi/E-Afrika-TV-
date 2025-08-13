@@ -1,0 +1,82 @@
+
+body {
+    font-family: serif;
+    font-size: 14px;
+}
+
+/*element de ma navBar*/
+.row1 {
+    background: rgb(0, 0, 61);
+}
+
+/*element de la nav et du body-middle-center*/
+.para {
+    transform: translateY(28%);
+}
+
+/*tous les éléments a*/
+a{
+    text-decoration: none;
+    color: black;
+}
+
+/*tous les éléments li de la navbar et sidebar*/
+ul li {
+    margin-top: 8px;
+}
+
+/*premiere colone de le sidebar*/
+.col1 {
+    background-color: #E0E0E0;
+    font-size: 17px;
+}
+
+/*tous les hr non indexés*/
+hr {
+    border-width: 1.75px;
+    border-color: #ffffff;
+}
+
+.body hr {
+    border-color: rgb(6, 6, 135); 
+}
+
+.bd hr {
+    border-width: 1.5px;
+    border-color: rgb(82, 82, 82);
+}
+
+.hrRow hr{
+    border-color: rgb(6, 6, 135);
+}
+/*tous les span */
+span {
+    margin-right: 5px;
+}
+
+/*element du body-middle-center*/
+.btn1 {
+    background: rgb(2, 2, 105);
+    transform: translateY(-10px);
+    font-size: 16px;
+}
+
+.btn1:hover {
+    background: navy;
+}
+
+/*element du footer*/
+.col2 a {
+    color: rgb(89, 85, 85);
+    font-size: 14px;
+}
+
+/*elements du body*/
+.para1{
+    color: rgb(3, 3, 141);
+    font-size: 18px;
+}
+
+.dispo {
+    font-size: 16px;
+}
